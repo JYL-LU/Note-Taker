@@ -7,7 +7,7 @@
 - [Usage](#usage)
 - [License](#license)
 - [Contribution](#contribution)
-- [Testing](#testing)
+- [Heroku](#heroku)
 - [Questions](#questions)
 
 ## Visual Presentation
@@ -64,7 +64,7 @@ Jane Lu
 
 ## Heroku
 
-https://note-taker0610.herokuapp.com/notes
+https://note-taker0610.herokuapp.com/
 
 ## Questions
 
